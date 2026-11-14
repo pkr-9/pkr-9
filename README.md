@@ -16,9 +16,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkr-9&theme=react&hide_border=true)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkr-9&theme=radical&hide_border=true" alt="GitHub Streak" width="600">
-</div>
+</div> -->
 
 ## ✨ Highlights
 
